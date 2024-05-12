@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Garbage Collector(USER)</string>
+    <string name="register_text">Let\'s start with creating your account</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="gmail">Email (@gmail.com)</string>
+    <string name="continue_text">Continue</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_sign_out">Sign out</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="permission_require">Location permission require</string>
+    <string name="drivers_not_found">Drivers not found !</string>
+    <string name="not_found_key">Not found driver with key</string>
+    <string name="title_activity_request_driver">RequestDriverActivity</string>
+    <string name="welcome">Welcome</string>
+    <string name="choose_a_saved_place">Choose a saved place</string>
+    <string name="where_to">Where to call?</string>
+    <string name="city_name_empty">City name is empty</string>
+</resources>
