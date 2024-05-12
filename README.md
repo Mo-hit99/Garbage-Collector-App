@@ -15,3 +15,6 @@ Screen Shot of the App
 
 ![image](https://github.com/Mo-hit99/Garbage-Collector-App/assets/98423545/60ae35ac-288e-4f1a-8a11-6e217398d950)
 
+![image](https://github.com/Mo-hit99/Garbage-Collector-App/assets/98423545/ed96504d-4cee-47bf-8e9d-3fb1b0b67873)
+
+
