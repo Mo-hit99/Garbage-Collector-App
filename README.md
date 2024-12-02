@@ -1,6 +1,6 @@
 # Garbage-Collector-App <br>
-#Plz Switch to master branch<br>
-#driver App on Repository on #2 View in GitHub resume<br>
+# Plz Switch to master branch<br>
+[# driver App on Repository](https://github.com/Mo-hit99/garbageDriverApp.git)<br>
 
 <br>
 Screen Shot of the App
